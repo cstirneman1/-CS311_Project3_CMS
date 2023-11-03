@@ -1,0 +1,17 @@
+C:\Users\stirn\source\repos\CS311_Project3_CMS\obj\Debug\net7.0-windows\CS311_Project3_CMS.Form1.resources
+C:\Users\stirn\source\repos\CS311_Project3_CMS\obj\Debug\net7.0-windows\CS311_Project3_CMS.csproj.GenerateResource.cache
+C:\Users\stirn\source\repos\CS311_Project3_CMS\obj\Debug\net7.0-windows\CS311_Project3_CMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stirn\source\repos\CS311_Project3_CMS\obj\Debug\net7.0-windows\CS311_Project3_CMS.AssemblyInfoInputs.cache
+C:\Users\stirn\source\repos\CS311_Project3_CMS\obj\Debug\net7.0-windows\CS311_Project3_CMS.AssemblyInfo.cs
+C:\Users\stirn\source\repos\CS311_Project3_CMS\obj\Debug\net7.0-windows\CS311_Project3_CMS.csproj.CoreCompileInputs.cache
+C:\Users\stirn\source\repos\CS311_Project3_CMS\bin\Debug\net7.0-windows\CS311_Project3_CMS.exe
+C:\Users\stirn\source\repos\CS311_Project3_CMS\bin\Debug\net7.0-windows\CS311_Project3_CMS.deps.json
+C:\Users\stirn\source\repos\CS311_Project3_CMS\bin\Debug\net7.0-windows\CS311_Project3_CMS.runtimeconfig.json
+C:\Users\stirn\source\repos\CS311_Project3_CMS\bin\Debug\net7.0-windows\CS311_Project3_CMS.dll
+C:\Users\stirn\source\repos\CS311_Project3_CMS\bin\Debug\net7.0-windows\CS311_Project3_CMS.pdb
+C:\Users\stirn\source\repos\CS311_Project3_CMS\obj\Debug\net7.0-windows\CS311_Project3_CMS.Properties.Resources.resources
+C:\Users\stirn\source\repos\CS311_Project3_CMS\obj\Debug\net7.0-windows\CS311_Project3_CMS.dll
+C:\Users\stirn\source\repos\CS311_Project3_CMS\obj\Debug\net7.0-windows\refint\CS311_Project3_CMS.dll
+C:\Users\stirn\source\repos\CS311_Project3_CMS\obj\Debug\net7.0-windows\CS311_Project3_CMS.pdb
+C:\Users\stirn\source\repos\CS311_Project3_CMS\obj\Debug\net7.0-windows\CS311_Project3_CMS.genruntimeconfig.cache
+C:\Users\stirn\source\repos\CS311_Project3_CMS\obj\Debug\net7.0-windows\ref\CS311_Project3_CMS.dll
